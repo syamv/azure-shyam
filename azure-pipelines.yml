@@ -11,7 +11,7 @@ pool:
 
 # define variables to use during the build
 variables:
-  projectFolder: '/src/react-standalone'
+  projectFolder: 'src'
   buildConfiguration: '${projectFolder}/build'
 
 steps:
